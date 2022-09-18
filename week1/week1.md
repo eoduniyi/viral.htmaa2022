@@ -2,7 +2,7 @@
 
 ## Project Concepts
 *Project Material:* Glass  
-*Project Description:* This final project will demonstrate the transparency, brilliance, and flexibility of glass for computational process. Namely, we use glass substrates to build phonotic-like circuits and run various types of simulations that can be viewed from a liquid interface (which will employ Glassmorphism), as well as, any modern web browser. From bits and atoms to web pages.
+*Project Description:* This final project will demonstrate the transparency, brilliance, and flexibility of glass for computing. Namely, we use glass substrates to build phonotic-like circuits and run various types of simulations that can be viewed from a liquid interface (which will employ Glassmorphism) from any modern web browser.
 
 ## Types of Glass
 * Antique
@@ -13,14 +13,18 @@
 * Insulated (IGU)
 
 
-## Project Representations
+<!-- ## Project Representations
 Representation 1:
 Representation 2:
-Representation 3:
+Representation 3: -->
 
 ### Application Representations
 * Sketch
+* Fusion
+* FreeCAD
+* TinkerCAD
 * GarageBand
+* Adobe Audition
 * Miro
 * Spotify
 
@@ -28,6 +32,7 @@ Representation 3:
 * Processing / Java
 * Processing / JavaScript
 * Processing / Python
+* C#
 * C++
   * OpenFrameworks
 * R
