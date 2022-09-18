@@ -1,9 +1,17 @@
 # Final Project: Glass Computing
 
+## Project Concepts
+*Project Material:* Glass  
 *Project Description:* This final project will demonstrate the transparency, brilliance, and flexibility of glass for computational process. Namely, we use glass substrates to build phonotic-like circuits and run various types of simulations that can be viewed from a liquid interface (which will employ Glassmorphism), as well as, any modern web browser. From bits and atoms to web pages.
 
-<!-- Harmonic Oscillators (Harmonic Hopfield Networks)
-Compression -> Crystals -> Crystal Intelligence -> Intelligence -->
+## Types of Glass
+* Antique
+* "Double-strength" (Annealed)
+* Tempered (Safety Glass)
+* Laminated (Plastic-mediated)
+* Impact (Plastic-mediated++)
+* Insulated (IGU)
+
 
 ## Project Representations
 Representation 1:
@@ -23,6 +31,7 @@ Representation 3:
 * C++
   * OpenFrameworks
 * R
+* SwiftUI
 * Python
   * Quantum Machine Learning
 
@@ -30,4 +39,12 @@ Representation 3:
 * *Glass Grammars*
   * Square Rule
   * L-Shape Rule
-  * 
+  * S-Shape Rule
+
+
+
+
+
+
+**<!-- Harmonic Oscillators (Harmonic Hopfield Networks)
+Compression -> Crystals -> Crystal Intelligence -> Intelligence -->**
