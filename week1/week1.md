@@ -36,6 +36,7 @@ Representation 3: -->
 * C++
   * OpenFrameworks
 * R
+* Haskell
 * SwiftUI
 * Python
   * Quantum Machine Learning
