@@ -25,8 +25,8 @@ Representation 3: -->
 * TinkerCAD
 * GarageBand
 * Adobe Audition
-* Miro
-* Spotify
+<!-- * Miro
+* Spotify -->
 
 ### Program Representations
 * Processing / Java
@@ -46,10 +46,6 @@ Representation 3: -->
   * Square Rule
   * L-Shape Rule
   * S-Shape Rule
-
-
-
-
 
 
 **<!-- Harmonic Oscillators (Harmonic Hopfield Networks)
